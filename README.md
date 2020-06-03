@@ -19,7 +19,7 @@ yarn
 2 - Configure server
 
 ```
-server\ormconfig.json
+backend\ormconfig.json
 
 "host": "YOUR_POSTGRES_HOST",
 "port": YOUR_POSTGRES_PORT,
